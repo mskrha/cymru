@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"custom/cymru"
+	"github.com/mskrha/cymru"
 )
 
 func main() {
@@ -39,7 +39,7 @@ package main
 import (
 	"fmt"
 
-	"custom/cymru"
+	"github.com/mskrha/cymru"
 )
 
 func main() {
